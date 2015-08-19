@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="E:/Java/Projects/ErgoBanV500/Files/External Jars/Access/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="E:/Java/Projects/ErgoBanV500/Files/External Jars/Access/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Java/Projects/ErgoBanV500/Files/External Jars/Access/hsqldb.jar"/>
+	<classpathentry kind="lib" path="E:/Java/Projects/ErgoBanV500/Files/External Jars/Access/jackcess-2.0.4.jar"/>
+	<classpathentry kind="lib" path="E:/Java/Projects/ErgoBanV500/Files/External Jars/Access/ucanaccess-2.0.6.jar"/>
+	<classpathentry kind="lib" path="E:/Java/Projects/ErgoBanV500/Files/External Jars/iText v5.5.1/itextpdf-5.5.1.jar"/>
+	<classpathentry kind="lib" path="E:/Java/Projects/ErgoBanV500/Files/External Jars/iText v5.5.1/itext-pdfa-5.5.1.jar"/>
+	<classpathentry kind="lib" path="E:/Java/Projects/ErgoBanV500/Files/External Jars/iText v5.5.1/itext-pdfa-5.5.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/Java/Projects/ErgoBanV500/Files/External Jars/iText v5.5.1/itext-pdfa-5.5.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Java/Projects/ErgoBanV500/Files/External Jars/iText v5.5.1/itext-xtra-5.5.1.jar"/>
+	<classpathentry kind="lib" path="E:/Java/Projects/ErgoBanV500/Files/External Jars/iText v5.5.1/itext-xtra-5.5.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/Java/Projects/ErgoBanV500/Files/External Jars/iText v5.5.1/itext-xtra-5.5.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Java/Projects/ErgoBanV500/Files/External Jars/JCommon v1.0.21/jcommon-1.0.21.jar"/>
+	<classpathentry kind="lib" path="E:/Java/Projects/ErgoBanV500/Files/External Jars/JCommon v1.0.21/servlet.jar"/>
+	<classpathentry kind="lib" path="E:/Java/Projects/ErgoBanV500/Files/External Jars/JExcel/jxl.jar"/>
+	<classpathentry kind="lib" path="E:/Java/Projects/ErgoBanV500/Files/External Jars/JFontChooser/jfontchooser-1.0.5.jar"/>
+	<classpathentry kind="lib" path="E:/Java/Projects/ErgoBanV500/Files/External Jars/Synthetica Look and Feel/synthetica.jar"/>
+	<classpathentry kind="lib" path="E:/Java/Projects/ErgoBanV500/Files/External Jars/Synthetica Look and Feel/syntheticaAluOxide.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
